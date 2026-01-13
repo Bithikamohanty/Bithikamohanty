@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Bithikamohanty
-- 👀 I’m interested in:  solutions that transform business operations.
-- 🌱 I’m currently learning: Python
-- 💞️ I’m looking to collaborate on: Projects focused on AI and automation in business operations, especially those aiming to enhance productivity, streamline processes, and drive innovation.
+- 👀 I’m interested in:  solutions to problems that might or might not exist
 - 📫 How to reach me:  email me at bithikamohanty.bm@gmail.com.
 - 😄 Pronouns: She/Her
 
