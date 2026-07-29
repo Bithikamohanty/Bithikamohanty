@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bithikamohanty
-- 👀 I’m interested in:  solutions to problems that might or might not exist
-- 📫 How to reach me:  email me at bithikamohanty.bm@gmail.com.
+- 👀 I’m interested in learning new concepts and implementing them. 
+- 📫 How to reach me:  email me at biethikamohanty@gmail.com or bithikamohanty07@gmail.com
 - 😄 Pronouns: She/Her
 
 <!---
